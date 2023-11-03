@@ -2,9 +2,9 @@
 
 👀 I’m interested in high performance computing & real-time rendering
 
-💞️ Looking to collaborate on a 3D voxel engine
+🤝 Looking to collaborate on a 3D voxel engine
 
-📫 Reach me on Discord @ Flare#0707
+📫 Reach me on Discord @ flare_de
 
 <!---
 ItsFlare/ItsFlare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
